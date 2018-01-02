@@ -1,1 +1,1 @@
-# Music_Database
+Music Database (no GUI)
